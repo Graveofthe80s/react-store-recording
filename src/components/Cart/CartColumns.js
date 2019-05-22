@@ -5,22 +5,22 @@ export default function CartColumns() {
         <div className="container-fluid text-center d-none d-lg-block">
             <div className="row mt-3">
                 <div className="col-10 mx-auto col-lg-2">
-                    <p className="text-uppercase">Produkty</p>
+                    <p className="text-uppercase">Products</p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
-                    <p className="text-uppercase">Nazwa produktu</p>
+                    <p className="text-uppercase">Product Name</p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
-                    <p className="text-uppercase">Cena</p>
+                    <p className="text-uppercase">Price</p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
-                    <p className="text-uppercase">Ilość</p>
+                    <p className="text-uppercase">Quantity</p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
-                    <p className="text-uppercase">Usunąć</p>
+                    <p className="text-uppercase">Remove</p>
                 </div>
                 <div className="col-10 mx-auto col-lg-2">
-                    <p className="text-uppercase">Całkowity</p>
+                    <p className="text-uppercase">Total</p>
                 </div>
             </div>
         </div>
